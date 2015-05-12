@@ -1,4 +1,4 @@
-# webkit-winec2013
+# webkit-wec2013
 Webkit port for Windows Embedded Compact 2013  
 This project takes the inactive Windows CE Port of WebKit[https://trac.webkit.org/wiki/WinCE#no1] and repackage it to Microsoft's Windows Embedded Compact 2013  
 
